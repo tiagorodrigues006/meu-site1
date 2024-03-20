@@ -1,0 +1,76 @@
+ #abc {
+            z-index: 20;
+            width: 100%;
+            height: 100%;
+            opacity: .95;
+            top: 0;
+            left: 0;
+            display: none;
+            position: fixed;
+            background-color: white;
+            overflow: auto;
+        }
+
+        img#close {
+            position: absolute;
+            right: -14px;
+            top: -2px;
+            cursor: pointer;
+            width: 20px;
+        }
+
+        div#popupContact {
+            position: absolute;
+            left: 50%;
+            top: 12%;
+            margin-left: -202px;
+            font-family: 'Raleway', sans-serif;
+        }
+
+        #form {
+            max-width: 500px;
+            min-width: 450px;
+            padding: 10px 50px;
+            font-family: raleway;
+            background-color: #fff;
+            border: 2px solid gray;
+            border-radius: 10px;
+        }
+
+        /* Other CSS rules omitted for brevity */
+		
+		
+		
+		
+		
+		<!-- Vendor scripts -->
+    <script src="assets/vendor/jquery/jquery.js"></script>
+    <script src="assets/vendor/jquery-browser-mobile/jquery.browser.mobile.js"></script>
+    <script src="assets/vendor/bootstrap/js/bootstrap.js"></script>
+    <script src="assets/vendor/nanoscroller/nanoscroller.js"></script>
+    <script src="assets/vendor/bootstrap-datepicker/js/bootstrap-datepicker.js"></script>
+    <script src="assets/vendor/magnific-popup/magnific-popup.js"></script>
+    <script src="assets/vendor/jquery-placeholder/jquery.placeholder.js"></script>
+
+    <!-- Specific Page Vendor scripts -->
+    <script src="assets/vendor/select2/select2.js"></script>
+    <script src="assets/vendor/jquery-datatables/media/js/jquery.dataTables.js"></script>
+    <script src="assets/vendor/jquery-datatables-bs3/assets/js/datatables.js"></script>
+
+    <!-- Theme Base, Components and Settings -->
+    <script src="assets/javascripts/theme.js"></script>
+
+    <!-- Theme Custom -->
+    <script src="assets/javascripts/theme.custom.datatables.row.with.details.js"></script>
+
+    <!-- Other scripts omitted for brevity -->
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		

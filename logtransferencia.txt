@@ -1,0 +1,46 @@
+::1	25/02/22 04:35	User entered correct number()
+::1	25/02/22 04:36	User entered correct number(1619)
+::1	1	User entered correct number(1667)
+::1	25/02/22 04:37:59PM	User entered correct number(1668)
+::1	25/02/22 03:41:58PM	User entered correct number(1617)
+::1	25/02/22 03:42:19PM	User entered correct number(1619)
+			25/02/22 03:47:56PM	User entered correct number(1667)
+			25/02/22 03:54:30PM	User entered correct number(222)
+	25/02/22 03:56:29PM	User entered correct number(1671)
+André Tavares	25/02/22 03:57:59PM	User entered correct number(147)
+25/02/22 04:00:52PM	User entered correct number(1619)	25/02/22 04:00:52PM	Admin Teste
+User entered correct number(1177)	25/02/22 04:01:19PM	Admin Teste
+User entered correct number(1619)	25/02/22 04:01:49PM	André Tavares
+3262			13	25/02/22 04:05:16PM	André Tavares
+3262			1617	25/02/22 04:09:04PM	André Tavares
+3262			1619	25/02/22 04:09:31PM	André Tavares
+3262			1455	25/02/22 04:10:30PM	André Tavares
+3262			1619	25/02/22 04:10:50PM	André Tavares
+3262			111	25/02/22 04:12:44PM	André Tavares
+3262			1619	25/02/22 04:14:12PM	André Tavares
+3262			1618	25/02/22 04:15:26PM	André Tavares
+3262			1619	25/02/22 04:17:25PM	André Tavares
+3262			1618	25/02/22 04:19:33PM	André Tavares
+3262			1619	25/02/22 04:20:07PM	André Tavares
+3262			188	25/02/22 04:23:18PM	André Tavares
+3262			1619	25/02/22 04:26:31PM	André Tavares
+3262			1888	25/02/22 04:27:04PM	André Tavares
+3262			1619	25/02/22 04:27:16PM	André Tavares
+3262			1999	25/02/22 04:28:19PM	André Tavares
+3262				25/02/22 04:28:34PM	André Tavares
+3262			1619	25/02/22 04:28:42PM	André Tavares
+3262			222	25/02/22 04:31:12PM	André Tavares
+3262			2555	25/02/22 04:32:21PM	André Tavares
+3262			1619	25/02/22 04:32:34PM	André Tavares
+3262			144	25/02/22 04:33:56PM	André Tavares
+3262			1619	25/02/22 04:34:10PM	André Tavares
+3262			144	25/02/22 05:14:55PM	André Tavares
+3262	144		1619	25/02/22 05:18:24PM	André Tavares
+3262	1619		1669	25/02/22 05:19:36PM	André Tavares
+3262	1669	Tiago Pais_2		25/02/22 05:20:35PM	André Tavares
+3262	0		1619	25/02/22 05:20:52PM	André Tavares
+3262	1619	André Tavares	1669	25/02/22 05:21:11PM	André Tavares
+3262	1669	Tiago Pais_2	1619	25/02/22 05:22:44PM	André Tavares
+3262	1619	André Tavares	1669	25/02/22 05:23:08PM	André Tavares
+3262	1669	Tiago Pais_2	111	25/02/22 05:23:37PM	André Tavares
+3262	111	Paulo Oliveira	1619	25/02/22 05:24:19PM	André Tavares
